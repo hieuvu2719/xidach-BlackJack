@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.root{
+    -fx-font-size: 14;
+    -fx-font-family: "Arial";
+}
+
+.label{
+    -fx-font-weight:bold;
+    -fx-text-fill:navy;
+    -fx-padding: 0 10 0 10;
+}
